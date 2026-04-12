@@ -4,7 +4,8 @@
 ### ✨ 汕头 · 初中生 · 技术宅 ✨  
 ### ✨ Shantou · Middle Schooler · Tech Enthusiast ✨
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=C130AIR&show_icons=true&theme=radical" width="380" />
+<img align="right" src="https://avatars.githubusercontent.com/u/172959283?s=96&v=4!
+" width="380" />
 
 ---
 
