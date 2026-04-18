@@ -1,6 +1,6 @@
-🌟 Welcome to C130AIR's GitHub Universe! 🚀
+# 🌟 Welcome to C130AIR's GitHub Universe! 🚀
 
-路漫漫其修远兮，吾将上下而求索 🌸
+## 路漫漫其修远兮，吾将上下而求索 🌸
 
 Greetings, tech adventurers! I'm **柯梓轩 (C130AIR)** – a middle schooler from Shantou, Guangdong. I'm diving into **Hackintosh** (just a beginner!), crazy about **aviation, railways, and F1** (huge fan of **Lewis Hamilton** 👑). My mission? To localize OCLP for the Chinese Hackintosh community and build **F1-DRS**, a pit lane intro tool for F1. Buckle up and explore my world of code, creativity, and rails! 💻✈️🏎️
 
