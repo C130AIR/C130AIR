@@ -24,7 +24,7 @@ Greetings, tech adventurers! I'm **柯梓轩 (C130AIR)** – a middle schooler f
   *Hardcore fan: Aviation · Railways · F1 (Lewis Hamilton fanboy)*  
 ### 车手简介/Driver Profile
 - “I'm Ke Zixuan,drive for McLaren Mastercard F1 Team"
--“我是柯梓轩，效力于迈凯伦万事达卡F1车队”
+- “我是柯梓轩，效力于迈凯伦万事达卡F1车队”
 ---
 
 ### 🔧 正在做的项目 / Projects  
