@@ -26,8 +26,8 @@ Greetings, tech adventurers! I'm **柯梓轩 (C130AIR)** – a middle schooler f
 ---
 
 ### 🔧 正在做的项目 / Projects  
-- 🍎 **OCLP 汉化版** – 让黑苹果升级更容易（本地化进行中）  
-  *OCLP Chinese Localization – making Hackintosh upgrades easier for Chinese users*  
+- 🏁 **Paddock-Club** – F1 社区，没有简介
+  *F1 Community Hub — Paddock Club*  
 - 🏁 **F1-DRS** – F1 围场介绍工具，了解车队、车手和 DRS 规则  
   *F1-DRS – a pit lane intro tool for F1 teams, drivers & DRS rules*  
 
@@ -38,7 +38,8 @@ Greetings, tech adventurers! I'm **柯梓轩 (C130AIR)** – a middle schooler f
   *(replace [at] with @ to avoid crawlers)*  
 - 💬 **QQ**：`2303 912 195`（欢迎交流，备注“GitHub”）  
   *(feel free to add me with note “GitHub”)*  
-- 🌐 **GitHub**：[C130AIR](https://github.com/C130AIR)  
+- 🌐 **GitHub**：[C130AIR](https://github.com/C130AIR)
+- 📞 **其它方式** : [点我！](https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click&vd_source=7848c36e6fb7cb3d14567e5169eea3cb)
 
 ---
 
