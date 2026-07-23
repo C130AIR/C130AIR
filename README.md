@@ -15,10 +15,8 @@ Greetings, tech adventurers! I'm **柯梓轩 (C130AIR)** – a middle schooler f
 
 ### 🧑‍🚀 关于我 / About Me  
 - 🏫 **广东汕头** · 住宿初中生  
-  *Shantou, Guangdong · Boarding middle school student*  
-- 🍏 **黑苹果刚入门** · 正在折腾 OpenCore 和 OCLP  
-  *Hackintosh beginner · Tinkering with OpenCore & OCLP*  
-- 💻 **代码爱好**：Python 🐍 + Xcode 📱  
+  *Shantou, Guangdong · Boarding middle school student*   
+- 💻 **代码爱好**：Python  + Xcode* 
   *Coding lover: Python + Xcode*  
 - ✈️🚆🏎️ **铁杆爱好者**：飞机 · 火车 · F1（最爱 **汉密尔顿**）  
   *Hardcore fan: Aviation · Railways · F1 (Lewis Hamilton fanboy)*  
@@ -48,19 +46,7 @@ Greetings, tech adventurers! I'm **柯梓轩 (C130AIR)** – a middle schooler f
 - **Python**：写小工具、数据处理，正在学爬虫  
   *Python: small tools, data processing, learning web scraping*  
 - **Xcode / Swift**：刚入门，想做个铁路时刻表 App  
-  *Xcode/Swift: beginner, planning to build a train schedule app*  
-- **黑苹果 / OpenCore**：折腾配置、打补丁、汉化 OCLP  
-  *Hackintosh / OpenCore: tweaking configs, patching, localizing OCLP*  
-
----
-
-### 📌 近期小目标 / Short-term Goals  
-- [ ] 完成 OCLP 汉化版第一版，分享给国内黑苹果社区  
-      *Finish first release of OCLP Chinese localization*  
-- [ ] 用 SwiftUI 给 F1-DRS 加个车队数据卡片  
-      *Add team data cards to F1-DRS with SwiftUI*  
-- [ ] 期末考进步 10 名 ✨  
-      *Move up 10 spots in final exams*  
+  *Xcode/Swift: beginner, planning to build a train schedule app* 
 
 ---
 
