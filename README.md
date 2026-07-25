@@ -83,7 +83,7 @@ Wrenches and widgets that keep my projects on track:
 
 All original repositories are © 2026 柯梓轩. I build open-source tools for the F1 community — from live timing dashboards to historical race data analysis. Every project is fueled by a passion for motorsport and clean, performant code.
 
-🌟 **Fun Fact**: I never miss a Grand Prix — even if it means coding between qualifying sessions!
+🌟 **Fun Fact**: I'm Ke Zixuan,drive for ORACLE Red Bull Racing
 
 ---
 
