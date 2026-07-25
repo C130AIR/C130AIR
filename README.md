@@ -1,60 +1,109 @@
-# 🌟 Welcome to C130AIR's GitHub Universe! 🚀
+# 🏎️ Welcome to C130AIR's Garage! 
 
-## 路漫漫其修远兮，吾将上下而求索 🌸
+### 路漫漫其修远兮，吾将上下而求索 🌸  
+Greetings, speed chasers! I'm **C130AIR** (柯梓轩), a passionate developer and F1 fanatic who lives at the intersection of code and motorsport. I build tools that bring the thrill of Formula 1 to life — telemetry dashboards, race analytics, and data-driven insights from the paddock to the podium. Strap in and enjoy the ride! 🏁
 
-Greetings, tech adventurers! I'm **柯梓轩 (C130AIR)** – a middle schooler from Shantou, Guangdong. I'm diving into **Hackintosh** (just a beginner!), crazy about **aviation, railways, and F1** (huge fan of **Lewis Hamilton** 👑). My mission? To localize OCLP for the Chinese Hackintosh community and build **F1-DRS**, a pit lane intro tool for F1. Buckle up and explore my world of code, creativity, and rails! 💻✈️🏎️
-
----
-
-### ✨ 汕头 · 初中生 · 技术萌新 ✨  
-### ✨ Shantou · Middle Schooler · Tech Newbie ✨
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=C130AIR&show_icons=true&theme=radical" width="380" />
-
----
-
-### 🧑‍🚀 关于我 / About Me  
-- 🏫 **广东汕头** · 住宿初中生  
-  *Shantou, Guangdong · Boarding middle school student*   
-- 💻 **代码爱好**：Python  + Xcode* 
-  *Coding lover: Python + Xcode*  
-- ✈️🚆🏎️ **铁杆爱好者**：飞机 · 火车 · F1（最爱 **汉密尔顿**）  
-  *Hardcore fan: Aviation · Railways · F1 (Lewis Hamilton fanboy)*  
-### 车手简介/Driver Profile
-- “I'm Ke Zixuan,drive for McLaren Mastercard F1 Team"
-- “我是柯梓轩，效力于迈凯伦万事达卡F1车队”
----
-
-### 🔧 正在做的项目 / Projects  
-- 🏁 **Paddock-Club** – F1 社区，没有简介
-  *F1 Community Hub — Paddock Club*  
-- 🏁 **F1-DRS** – F1 围场介绍工具，了解车队、车手和 DRS 规则  
-  *F1-DRS – a pit lane intro tool for F1 teams, drivers & DRS rules*  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF1801&center=true&vCenter=true&width=500&lines=Full+Throttle+Development;Data+Driven+Racing;From+Paddock+to+Podium;Lights+Out+and+Away+We+Go!" alt="Typing SVG"/>
+  <p>
+    <a href="https://github.com/C130AIR"><img src="https://img.shields.io/github/followers/C130AIR?style=social&label=Follow" alt="GitHub Followers"/></a>
+    <a href="https://github.com/C130AIR"><img src="https://img.shields.io/github/stars/C130AIR?style=social&label=Stars" alt="GitHub Stars"/></a>
+    <img src="https://komarev.com/ghpvc/?username=C130AIR&color=FF1801&style=flat-square&label=Pit+Stops" alt="Profile Views"/>
+  </p>
+</div>
 
 ---
 
-### 📬 找到我 / Contact Me  
-- 📧 **邮箱 / Email**：`kjinlin0917[at]iCloud.com`（防爬虫，手动替换[at]为@）  
-  *(replace [at] with @ to avoid crawlers)*  
-- 💬 **QQ**：`2303 912 195`（欢迎交流，备注“GitHub”）  
-  *(feel free to add me with note “GitHub”)*  
-- 🌐 **GitHub**：[C130AIR](https://github.com/C130AIR)
-- 📞 **其它方式** : [点我！](https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click&vd_source=7848c36e6fb7cb3d14567e5169eea3cb)
+## 🏆 Race Achievements
+
+Trophies from the circuit:
+
+<div align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=C130AIR&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=6&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-### 🛠️ 技能树 / Skills  
-- **Python**：写小工具、数据处理，正在学爬虫  
-  *Python: small tools, data processing, learning web scraping*  
-- **Xcode / Swift**：刚入门，想做个铁路时刻表 App  
-  *Xcode/Swift: beginner, planning to build a train schedule app* 
+## 🛠️ Featured Projects
+
+Under the hood — my open-source builds for the F1 community:
+
+<div align="center">
+  <a href="https://github.com/C130AIR/F1-DRS">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=C130AIR&repo=F1-DRS&theme=dracula&show_owner=true&border_radius=10" alt="F1-DRS"/>
+  </a>
+  <a href="https://github.com/C130AIR/paddock-club">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=C130AIR&repo=paddock-club&theme=dracula&show_owner=true&border_radius=10" alt="paddock-club"/>
+  </a>
+</div>
+
+🔗 Explore the full [garage](https://github.com/C130AIR?tab=repositories)!
 
 ---
 
-### 🎉 感谢来访！ / Thanks for Visiting!  
-这里是 **住在海边、刚入黑苹果坑** 的初中生，欢迎一起折腾代码、聊 F1 或研究 OpenCore！  
+## 📊 Telemetry & Stats
 
-*A middle schooler living by the sea, just jumped into Hackintosh. Feel free to geek out about code, F1, or OpenCore together!*  
+Live data from my coding sessions:
 
-> “代码和铁轨一样，连接着世界。”  
-> *“Code and rails both connect the world.”*
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=C130AIR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs,issues&rank_icon=percentile&border_radius=10" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=C130AIR&layout=compact&theme=dracula&langs_count=10&hide=html,css&border_radius=10" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=C130AIR&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🧰 Garage Toolbox
+
+Wrenches and widgets that keep my projects on track:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/F1_API-FF1801?style=for-the-badge&logo=f1&logoColor=white" alt="F1 API"/>
+  <img src="https://img.shields.io/badge/Data_Viz-FF6B6B?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/Telemetry-00D2BE?style=for-the-badge&logo=fastapi&logoColor=white" alt="Telemetry"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+---
+
+## 📬 Pit Wall — Let's Connect!
+
+- **QQ**: 2303912195  
+- **X (Twitter)**: [@leclerr8vg](https://x.com/leclerr8vg)
+- **QQ Exchange Group**: 965625664  
+- **Emergency (SMS)**: +86 17727571553  
+
+<div align="center">
+  <a href="https://x.com/leclerr8vg"><img src="https://img.shields.io/badge/QQ-2303912195-blue?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ"/></a>
+  <a href="https://x.com/leclerr8vg"><img src="https://img.shields.io/badge/X-leclerr8vg-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+</div>
+
+---
+
+## 📝 Race Notes
+
+All original repositories are © 2026 柯梓轩. I build open-source tools for the F1 community — from live timing dashboards to historical race data analysis. Every project is fueled by a passion for motorsport and clean, performant code.
+
+🌟 **Fun Fact**: I never miss a Grand Prix — even if it means coding between qualifying sessions!
+
+---
+
+## 💡 Join the Crew
+
+- ⭐ Star the projects that rev your engine!  
+- 🛠️ Open issues and pull requests are always welcome.  
+- 📢 Share with fellow F1 + tech enthusiasts!  
+
+<div align="center">
+  <p><b>Lights out and away we code! 🏎️💨</b></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=5000&pause=1000&color=FF1801&center=true&vCenter=true&width=450&lines=Box+Box+Box;Push+Lap+Incoming;P1+on+the+Leaderboard;Green+Flag+%E2%80%94+Full+Send!" alt="Typing SVG"/>
+</div>
