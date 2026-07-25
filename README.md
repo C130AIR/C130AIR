@@ -70,7 +70,6 @@ Wrenches and widgets that keep my projects on track:
 
 - **QQ**: 2303912195  
 - **X (Twitter)**: [@leclerr8vg](https://x.com/leclerr8vg)
-- **QQ Exchange Group**: 965625664  
 - **Emergency (SMS)**: +86 17727571553  
 
 <div align="center">
