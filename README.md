@@ -95,5 +95,5 @@ All original repositories are © 2026 柯梓轩. I build open-source tools for t
 
 <div align="center">
   <p><b>Lights out and away we code! 🏎️💨</b></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=5000&pause=1000&color=FF1801&center=true&vCenter=true&width=450&lines=Box+Box+Box;Push+Lap+Incoming;P1+on+the+Leaderboard;Green+Flag+%E2%80%94+Full+Send!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=5000&pause=1000&color=FF1801&center=true&vCenter=true&width=450&lines=Box+Box;Push+Lap+Incoming;P1+on+the+Leaderboard;Green+Flag+%E2%80%94+Full+Send!" alt="Typing SVG"/>
 </div>
