@@ -14,15 +14,6 @@ Greetings, speed chasers! I'm **C130AIR** (柯梓轩), a passionate developer an
 
 ---
 
-## 🏆 Race Achievements
-
-Trophies from the circuit:
-
-<div align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=C130AIR&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=6&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 🛠️ Featured Projects
 
