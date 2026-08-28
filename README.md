@@ -74,7 +74,7 @@ Wrenches and widgets that keep my projects on track:
 
 <div align="center">
   <a href="https://x.com/leclerr8vg"><img src="https://img.shields.io/badge/QQ-2303912195-blue?style=for-the-badge&logo=tencent-qq&logoColor=white" alt="QQ"/></a>
-  <a href="https://x.com/leclerr8vg"><img src="https://img.shields.io/badge/X-leclerr8vg-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="https://x.com/leclerr8vg"><img src="https://img.shields.io/badge/X-ImJustC130AIR-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
 </div>
 
 ---
