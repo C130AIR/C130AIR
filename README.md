@@ -69,7 +69,7 @@ Wrenches and widgets that keep my projects on track:
 ## 📬 Pit Wall — Let's Connect!
 
 - **QQ**: 2303912195  
-- **X (Twitter)**: [@leclerr8vg](https://x.com/leclerr8vg)
+- **X (Twitter)**: [@ImJustC130AIR](https://x.com/ImJustC130AIR)
 - **Emergency (SMS)**: +86 17727571553  
 
 <div align="center">
